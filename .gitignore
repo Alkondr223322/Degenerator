@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# Environment Variables (IMPORTANT)
+.env
+.envOld
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Build outputs (optional but recommended)
+dist/
+build/
+coverage/
