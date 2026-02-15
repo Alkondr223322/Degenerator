@@ -1,7 +1,7 @@
-client .env template
-REACT_APP_SERVER_PATH = "..."
+client .env template <br>
+REACT_APP_SERVER_PATH = "..." <br>
 
-server .env template
+server .env template <br>
 MONGODB_URI="..." <br>
 SECRET_KEY="..." <br>
 EMAIL_USER="..." <br>
