@@ -1,0 +1,56 @@
+"filename", "language", "JSON", "Markdown", "CSS", "JavaScript", "HTML", "JavaScript JSX", "comment", "blank", "total"
+"e:\NodeProjects\degenerator4\README.md", "Markdown", 0, 1, 0, 0, 0, 0, 0, 2, 3
+"e:\NodeProjects\degenerator4\build\asset-manifest.json", "JSON", 14, 0, 0, 0, 0, 0, 0, 0, 14
+"e:\NodeProjects\degenerator4\build\index.html", "HTML", 0, 0, 0, 0, 1, 0, 0, 0, 1
+"e:\NodeProjects\degenerator4\build\manifest.json", "JSON", 25, 0, 0, 0, 0, 0, 0, 1, 26
+"e:\NodeProjects\degenerator4\build\static\css\main.6cc56bba.css", "CSS", 0, 0, 2, 0, 0, 0, 4, 0, 6
+"e:\NodeProjects\degenerator4\build\static\js\main.8da57c1f.js", "JavaScript", 0, 0, 0, 1, 0, 0, 2, 0, 3
+"e:\NodeProjects\degenerator4\package-lock.json", "JSON", 29836, 0, 0, 0, 0, 0, 0, 1, 29837
+"e:\NodeProjects\degenerator4\package.json", "JSON", 51, 0, 0, 0, 0, 0, 0, 1, 52
+"e:\NodeProjects\degenerator4\public\index.html", "HTML", 0, 0, 0, 0, 20, 0, 23, 1, 44
+"e:\NodeProjects\degenerator4\public\manifest.json", "JSON", 25, 0, 0, 0, 0, 0, 0, 1, 26
+"e:\NodeProjects\degenerator4\src\API\askPaymentDetails.js", "JavaScript", 0, 0, 0, 0, 0, 0, 0, 1, 1
+"e:\NodeProjects\degenerator4\src\API\genImages.js", "JavaScript", 0, 0, 0, 47, 0, 0, 7, 11, 65
+"e:\NodeProjects\degenerator4\src\API\genMusic.js", "JavaScript", 0, 0, 0, 45, 0, 0, 102, 27, 174
+"e:\NodeProjects\degenerator4\src\API\genSpeech.js", "JavaScript", 0, 0, 0, 32, 0, 0, 4, 6, 42
+"e:\NodeProjects\degenerator4\src\API\genText.js", "JavaScript", 0, 0, 0, 32, 0, 0, 0, 4, 36
+"e:\NodeProjects\degenerator4\src\API\userChangePassword.js", "JavaScript", 0, 0, 0, 30, 0, 0, 3, 5, 38
+"e:\NodeProjects\degenerator4\src\API\userForgotPassword.js", "JavaScript", 0, 0, 0, 25, 0, 0, 0, 4, 29
+"e:\NodeProjects\degenerator4\src\API\userLogin.js", "JavaScript", 0, 0, 0, 27, 0, 0, 3, 3, 33
+"e:\NodeProjects\degenerator4\src\API\userPayRequest.js", "JavaScript", 0, 0, 0, 22, 0, 0, 5, 4, 31
+"e:\NodeProjects\degenerator4\src\API\userReduceBalance.js", "JavaScript", 0, 0, 0, 21, 0, 0, 5, 4, 30
+"e:\NodeProjects\degenerator4\src\API\userRegister.js", "JavaScript", 0, 0, 0, 31, 0, 0, 1, 5, 37
+"e:\NodeProjects\degenerator4\src\App.css", "CSS", 0, 0, 3, 0, 0, 0, 0, 0, 3
+"e:\NodeProjects\degenerator4\src\App.js", "JavaScript", 0, 0, 0, 71, 0, 0, 4, 19, 94
+"e:\NodeProjects\degenerator4\src\components\MyGeneratorWrapper.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 428, 23, 66, 517
+"e:\NodeProjects\degenerator4\src\components\MyGeneratorsAccordion.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 70, 0, 5, 75
+"e:\NodeProjects\degenerator4\src\components\MyNavBar.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 89, 17, 15, 121
+"e:\NodeProjects\degenerator4\src\components\buttons\MyInstrumentPicker.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 38, 2, 6, 46
+"e:\NodeProjects\degenerator4\src\components\buttons\MyLogoutBtn.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 9, 0, 3, 12
+"e:\NodeProjects\degenerator4\src\components\buttons\MyModalBtn.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 9, 0, 3, 12
+"e:\NodeProjects\degenerator4\src\components\generators\MyGenAudio.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 80, 28, 8, 116
+"e:\NodeProjects\degenerator4\src\components\generators\MyGenImages.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 138, 1, 21, 160
+"e:\NodeProjects\degenerator4\src\components\generators\MyGenResult.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 110, 17, 21, 148
+"e:\NodeProjects\degenerator4\src\components\generators\MyGenSettings.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 51, 1, 3, 55
+"e:\NodeProjects\degenerator4\src\components\generators\MyGenText.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 170, 10, 29, 209
+"e:\NodeProjects\degenerator4\src\components\modals\MyChangePwDModal.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 57, 2, 4, 63
+"e:\NodeProjects\degenerator4\src\components\modals\MyForgotPwDModal.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 46, 2, 4, 52
+"e:\NodeProjects\degenerator4\src\components\modals\MyLoginModal.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 75, 0, 4, 79
+"e:\NodeProjects\degenerator4\src\components\modals\MyPaymentModal.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 52, 48, 8, 108
+"e:\NodeProjects\degenerator4\src\components\modals\MyPortmonePaymentModal.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 52, 1, 4, 57
+"e:\NodeProjects\degenerator4\src\components\modals\MyRegisterModal.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 65, 0, 4, 69
+"e:\NodeProjects\degenerator4\src\components\modals\MyStripePaymentModal.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 32, 0, 5, 37
+"e:\NodeProjects\degenerator4\src\index.css", "CSS", 0, 0, 12, 0, 0, 0, 0, 2, 14
+"e:\NodeProjects\degenerator4\src\index.js", "JavaScript", 0, 0, 0, 11, 0, 0, 0, 4, 15
+"e:\NodeProjects\degenerator4\src\locales\en.js", "JavaScript", 0, 0, 0, 8, 0, 0, 0, 0, 8
+"e:\NodeProjects\degenerator4\src\locales\ua.js", "JavaScript", 0, 0, 0, 92, 0, 0, 0, 13, 105
+"e:\NodeProjects\degenerator4\src\middleware\b64toBlob.js", "JavaScript", 0, 0, 0, 20, 0, 0, 1, 6, 27
+"e:\NodeProjects\degenerator4\src\middleware\blobToBase64.js", "JavaScript", 0, 0, 0, 8, 0, 0, 0, 1, 9
+"e:\NodeProjects\degenerator4\src\middleware\composeMusic.js", "JavaScript", 0, 0, 0, 59, 0, 0, 30, 12, 101
+"e:\NodeProjects\degenerator4\src\middleware\createAudioLayerAsync.js", "JavaScript", 0, 0, 0, 33, 0, 0, 1, 10, 44
+"e:\NodeProjects\degenerator4\src\middleware\createImageLayer.js", "JavaScript", 0, 0, 0, 30, 0, 0, 6, 5, 41
+"e:\NodeProjects\degenerator4\src\middleware\createImageLayerAsync.js", "JavaScript", 0, 0, 0, 139, 0, 0, 4, 18, 161
+"e:\NodeProjects\degenerator4\src\middleware\createSmoothImageLayer.js", "JavaScript", 0, 0, 0, 94, 0, 0, 10, 11, 115
+"e:\NodeProjects\degenerator4\src\middleware\createTextLayer.js", "JavaScript", 0, 0, 0, 67, 0, 0, 15, 10, 92
+"e:\NodeProjects\degenerator4\src\middleware\getSynth.js", "JavaScript", 0, 0, 0, 37, 0, 0, 2, 5, 44
+"Total", "-", 29951, 1, 17, 982, 21, 1571, 384, 410, 33337
